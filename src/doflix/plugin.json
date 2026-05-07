@@ -1,0 +1,10 @@
+{
+  "packageName": "com.monkeyyx.dp.doflix",
+  "name": "DoFlix",
+  "version": 1,
+  "baseUrl": "https://panel.watchkaroabhi.com",
+  "description": "DoFlix plugin for dp",
+  "authors": ["@monkeyyx"],
+  "languages": ["en"],
+  "categories": ["Others"]
+}

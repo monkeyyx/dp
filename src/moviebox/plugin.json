@@ -1,0 +1,10 @@
+{
+  "packageName": "com.monkeyyx.dp.moviebox",
+  "name": "MovieBox",
+  "version": 1,
+  "baseUrl": "https://moviebox.s4nch1tt.workers.dev",
+  "description": "Movies & TV Shows",
+  "authors": ["@monkeyyx"],
+  "languages": ["en"],
+  "categories": ["Movies", "Series"]
+}

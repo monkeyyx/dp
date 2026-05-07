@@ -1,0 +1,10 @@
+{
+  "packageName": "com.monkeyyx.dp.turkmood",
+  "name": "TurkMood",
+  "version": 1,
+  "baseUrl": "https://turkmood.com",
+  "description": "Arabic Dubbed Turkish Series and Movies",
+  "authors": ["@monkeyyx"],
+  "languages": ["ar", "tr", "en"],
+  "categories": ["Series", "Movies"]
+}

@@ -1,0 +1,10 @@
+{
+  "packageName": "com.monkeyyx.dp.sflix",
+  "name": "SFlix",
+  "version": 1,
+  "baseUrl": "https://sflix.film",
+  "description": "Movies & TV Shows",
+  "authors": ["@monkeyyx"],
+  "languages": ["en"],
+  "categories": ["Movies", "Series"]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "dp",
+  "packageName": "com.monkeyyx.dp",
+  "description": "dp plugins repository",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/monkeyyx/dp/main/dist/plugins.json"
+  ]
+}

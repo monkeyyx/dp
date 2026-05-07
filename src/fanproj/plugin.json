@@ -1,0 +1,10 @@
+{
+  "packageName": "com.monkeyyx.dp.fanproj",
+  "name": "FanProj",
+  "version": 1,
+  "baseUrl": "https://fanproj.com",
+  "description": "Somali/English Dubbed Movies & Series",
+  "authors": ["@monkeyyx"],
+  "languages": ["so", "en"],
+  "categories": ["Movies", "Series"]
+}

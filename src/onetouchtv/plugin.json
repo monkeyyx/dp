@@ -1,0 +1,10 @@
+{
+  "packageName": "com.monkeyyx.dp.onetouchtv",
+  "name": "OneTouchTV",
+  "version": 1,
+  "baseUrl": "https://api3.devcorp.me",
+  "description": "Movies & TV Shows",
+  "authors": ["@monkeyyx"],
+  "languages": ["en"],
+  "categories": ["Movies", "Series"]
+}

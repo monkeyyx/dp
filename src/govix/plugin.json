@@ -1,0 +1,10 @@
+{
+  "packageName": "com.monkeyyx.dp.govix",
+  "name": "Govix",
+  "version": 1,
+  "baseUrl": "https://govix.tv",
+  "description": "Somali/English Dubbed Movies & Series",
+  "authors": ["@monkeyyx"],
+  "languages": ["so", "en"],
+  "categories": ["Movies", "Series"]
+}

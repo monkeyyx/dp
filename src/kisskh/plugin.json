@@ -1,0 +1,10 @@
+{
+  "packageName": "com.monkeyyx.dp.kisskh",
+  "name": "KissKH",
+  "version": 1,
+  "baseUrl": "https://kisskh.ovh",
+  "description": "Movies & TV Shows",
+  "authors": ["@monkeyyx"],
+  "languages": ["en"],
+  "categories": ["Movies", "Series"]
+}

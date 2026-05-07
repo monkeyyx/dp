@@ -1,0 +1,10 @@
+{
+  "packageName": "com.monkeyyx.dp.streamflix",
+  "name": "StreamFlix",
+  "version": 1,
+  "baseUrl": "https://streamflix.app",
+  "description": "Movies & TV Shows",
+  "authors": ["@monkeyyx"],
+  "languages": ["en"],
+  "categories": ["Movies", "Series"]
+}
